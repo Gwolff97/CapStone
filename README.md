@@ -1,6 +1,6 @@
 # capstone
 
-> Senor capstone
+> Senior capstone
 
 ## Build Setup
 
